@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Text Slot Machine.png" alt="Slot Machine Banner" width="100%">
+</p>
+
+
 ## 📖 What does it do?
 
 This project is a fully functional, terminal-based Slot Machine game written entirely in Python. It allows users to simulate a classic slot machine experience directly from their command line.
